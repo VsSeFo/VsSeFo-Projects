@@ -1,3 +1,2 @@
-# minecraftJAVA-SkyPvp
-SkyPvp plugin for minecraft minigame servers
-By: VsSeFo
+# VsSeFo-Projects
+plugins for minecraft minigame servers
